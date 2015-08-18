@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/Germany.png</file>
+        <file>res/United_Kingdom.png</file>
+    </qresource>
+</RCC>
